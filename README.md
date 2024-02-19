@@ -1,5 +1,5 @@
 ### 
-**Hi there I'm Hürü a graduate in Computer Engineering with ambitious goals for the future in my field. As a collaborative team player, I'm constantly focused on learning and self-improvement. Keeping up with the latest technologies and implementing them excites me. I'm striving to reach my goals by working on projects showcased on my GitHub profile. I eagerly await opportunities to collaborate and work together.
+Hi there I'm Hürü a graduate in Computer Engineering with ambitious goals for the future in my field. As a collaborative team player, I'm constantly focused on learning and self-improvement. Keeping up with the latest technologies and implementing them excites me. I'm striving to reach my goals by working on projects showcased on my GitHub profile. I eagerly await opportunities to collaborate and work together.
 
 <!--
 **drnhuri/drnhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
